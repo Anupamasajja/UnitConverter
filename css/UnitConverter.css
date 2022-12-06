@@ -1,0 +1,130 @@
+* {
+    margin: 0;
+    border: 0;
+}
+
+.unitConverter {
+    position: absolute;
+    width: 550px;
+    height: 730px;
+    left: 75px;
+    top: 125px;
+    background: #F4F4F4;
+}
+
+.main {
+    position: absolute;
+    width: 550px;
+    height: 285px;
+    background: #6943FF;
+}
+
+.mainHeading {
+    position: absolute;
+    width: 450px;
+    height: 40px;
+    left: 50px;
+    top: 35px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 30px;
+    line-height: 40px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.inputText {
+    position: absolute;
+    width: 115px;
+    height: 85px;
+    left: 215px;
+    top: 100px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 60px;
+    line-height: 25px;
+    text-align: center;
+    color: #FFFFFF;
+    border: 2px solid #B295FF;
+    border-radius: 5px;
+    background: #6943FF;
+}
+
+.convertButton {
+    position: absolute;
+    width: 115px;
+    height: 40px;
+    left: 215px;
+    top: 210px;
+    background: #FFFFFF;
+    box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.05);
+    border-radius: 5px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    color: #3D3D3D;
+}
+
+.lengthConverter {
+    position: absolute;
+    width: 500px;
+    height: 110px;
+    left: 25px;
+    top: 321px;
+    gap: 18px;
+    background: #FFFFFF;
+    border-radius: 4.68077px 0px 0px 0px;
+}
+
+.volumeConverter {
+    position: absolute;
+    width: 500px;
+    height: 110px;
+    left: 25px;
+    top: 453px;
+    background: #FFFFFF;
+}
+
+.massConverter {
+    position: absolute;
+    width: 500px;
+    height: 110px;
+    left: 25px;
+    top: 585px;
+    background: #FFFFFF;
+}
+
+.converterHeading {
+    position: absolute;
+    width: 345px;
+    height: 25px;
+    left: 80px;
+    top: 30px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 20px;
+    text-align: center;
+    color: #5A537B;
+
+}
+
+.converterText {
+    position: absolute;
+    width: 345px;
+    height: 25px;
+    left: 80px;
+    top: 65px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 20px;
+    text-align: center;
+    color: #353535;
+}
